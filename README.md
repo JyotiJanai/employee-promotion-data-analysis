@@ -10,7 +10,7 @@ We are going to be using Microsoft Azure ML Studio Classic.To Login to this you 
 
 1: Open the link and click on "Open in Studio (Classic)" button and login using your microsoft account.
 
-https://studio.azureml.net/Home/ViewWorkspaceCached/0177d229f72b4c2ea099bf209270c781#Workspaces/Experiments/Experiment/0177d229f72b4c2ea099bf209270c781.f-id.326d43aaf29140cd91f500035bdad047/ViewExperiment
+https://gallery.cortanaintelligence.com/Experiment/Employee-Promotion-Experiment-3
 
 2: Add the Experiment to Your Workspace and start working on the dataset.
 
